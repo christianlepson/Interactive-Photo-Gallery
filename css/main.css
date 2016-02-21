@@ -1,0 +1,40 @@
+body {
+	font-size: 16pt;
+	font-family: veranda;
+	background-color: #fff;
+	color: #7f7f7f;
+}
+
+.search-head {
+	width: 100%;
+	margin: 0 auto;
+	padding: 40px 0;
+	text-align: center;
+}
+
+#search {
+	width: 80%;
+	height: 45px;
+	display: block;
+	margin: 0 auto;
+	border: 1px solid #d2d2d2;
+	border-radius: 5px;
+}
+
+.container {
+	max-width: 980px;
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.gallery {
+	margin-bottom: 60px;
+}
+
+@media (min-width: 480px) {
+	#search {
+		width: 460px;
+	}
+}
