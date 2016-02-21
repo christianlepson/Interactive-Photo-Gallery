@@ -8,8 +8,8 @@ function showResults(value) {
 		$gallery.hide();
 		$gallery.removeAttr('data-lightbox');
 		//If image title attribute contains search value, show image
-		$('.gallery[data-title*=' + value + ']').show();
-		$('.gallery[data-title*=' + value + ']').attr('data-lightbox', 'gallery');
+		$('.gallery[data-title*="' + value + '"]').show();
+		$('.gallery[data-title*="' + value + '"]').attr('data-lightbox', 'gallery');
 	} else {
 		// Show all images when search value is empty
 		$gallery.show();

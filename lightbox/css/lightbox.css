@@ -170,7 +170,8 @@ body.lb-disable-scrolling {
 }
 
 .lb-data .lb-caption {
-  font-size: 13px;
+  color: #fff;
+  font-size: .75em;
   font-weight: bold;
   line-height: 1em;
 }
