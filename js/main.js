@@ -3,7 +3,7 @@ var $gallery = $('.gallery');
 
 function showResults(value) {
 	// If search value is not empty
-	if(value.length != 0) {
+	if(value.length !== 0) {
 		//Hide all images initially
 		$gallery.hide();
 		$gallery.removeAttr('data-lightbox');
