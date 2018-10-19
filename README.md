@@ -4,6 +4,6 @@ This responsive, interactive photo gallery was developed using jQuery, HTML, and
 
 [Click here to view the demo](http://christinlepson.github.io/Interactive-jQuery-Photo-Gallery/)
 
-![Photo Gallery preview](https://raw.githubusercontent.com/christinlepson/Web-App-Dashboard/master/img/github-preview.jpg)
+![Photo Gallery preview](https://raw.githubusercontent.com/christinlepson/Interactive-jQuery-Photo-Gallery/master/img/gihub-preview.jpg)
 
-![Photo Gallery preview 2](https://raw.githubusercontent.com/christinlepson/Web-App-Dashboard/master/img/github-preview2.jpg)
+![Photo Gallery preview 2](https://raw.githubusercontent.com/christinlepson/Interactive-jQuery-Photo-Gallery/master/img/gihub-preview2.jpg)
